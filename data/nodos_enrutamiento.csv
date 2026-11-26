@@ -1,0 +1,31 @@
+id,tipo,nombre,ciudad,region,lat,lon,entidad
+AG_LIM,agencia,Agencia BAA Lima,Lima,Costa,-12.046,-77.043,Banco Andino Amazónico (BAA)
+AG_TRU,agencia,Agencia BAA Trujillo,Trujillo,Costa,-8.112,-79.029,Banco Andino Amazónico (BAA)
+AG_CIX,agencia,Agencia BAA Chiclayo,Chiclayo,Costa,-6.771,-79.841,Banco Andino Amazónico (BAA)
+AG_PIU,agencia,Agencia BAA Piura,Piura,Costa,-5.194,-80.632,Banco Andino Amazónico (BAA)
+AG_AQP,agencia,Agencia BAA Arequipa,Arequipa,Sierra,-16.409,-71.537,Banco Andino Amazónico (BAA)
+AG_HYO,agencia,Agencia BAA Huancayo,Huancayo,Sierra,-12.065,-75.204,Banco Andino Amazónico (BAA)
+AG_PUC,agencia,Agencia BAA Pucallpa,Pucallpa,Selva,-8.379,-74.553,Banco Andino Amazónico (BAA)
+AG_TPP,agencia,Agencia BAA Tarapoto,Tarapoto,Selva,-6.487,-76.36,Banco Andino Amazónico (BAA)
+AG_YUR,agencia,Agencia BAA Yurimaguas,Yurimaguas,Selva,-5.902,-76.123,Banco Andino Amazónico (BAA)
+AG_IQT,agencia,Agencia BAA Iquitos,Iquitos,Selva,-3.749,-73.253,Banco Andino Amazónico (BAA)
+AG_NAU,agencia,Agencia BAA Nauta,Nauta,Selva,-4.507,-73.583,Banco Andino Amazónico (BAA)
+AG_REQ,agencia,Agencia BAA Requena,Requena,Selva,-5.063,-73.856,Banco Andino Amazónico (BAA)
+AG_CAB,agencia,Agencia BAA Caballococha,Caballococha,Selva,-3.906,-70.517,Banco Andino Amazónico (BAA)
+AG_PEM,agencia,Agencia BAA Puerto Maldonado,Puerto Maldonado,Selva,-12.593,-69.189,Banco Andino Amazónico (BAA)
+CCE,compensacion,Cámara de Compensación Electrónica,Lima,Costa,-11.696,-76.793,Sistema de pagos
+BILL_A,billetera,Billetera digital A (del BAA),Lima,Costa,-12.396,-76.693,BAA
+BILL_B,billetera,Billetera digital B (otros bancos),Lima,Costa,-12.646,-77.043,Consorcio B
+PROC_TARJ,procesador,Procesador de tarjetas,Lima,Costa,-12.046,-77.493,Red de tarjetas
+RED_ATM,servidor,Red interbancaria de cajeros,Lima,Costa,-11.646,-77.393,Red ATM
+BCN_LIM,entidad,Banco Costa Norte - Lima,Lima,Costa,-11.396,-76.993,Banco Costa Norte
+BCN_IQT,entidad,Banco Costa Norte - Iquitos,Iquitos,Selva,-3.629,-73.433,Banco Costa Norte
+CMS_IQT,entidad,Caja Municipal Selva - Iquitos,Iquitos,Selva,-3.899,-73.053,Caja Municipal Selva
+CORR_CAB,corresponsal,Agente corresponsal Caballococha,Caballococha,Selva,-3.806,-70.417,Caja Municipal Selva
+CORR_SRO,corresponsal,Agente corresponsal Santa Rosa,Santa Rosa,Selva,-4.22,-69.955,Caja Municipal Selva
+CORR_NAU,corresponsal,Agente corresponsal Nauta,Nauta,Selva,-4.407,-73.463,Caja Municipal Selva
+ATM_IQT,atm,Cajero automático Iquitos,Iquitos,Selva,-3.549,-73.103,BAA
+ATM_PUC,atm,Cajero automático Pucallpa,Pucallpa,Selva,-8.229,-74.403,BAA
+ATM_YUR,atm,Cajero automático Yurimaguas,Yurimaguas,Selva,-5.782,-76.003,BAA
+ATM_CAB,atm,Cajero automático Caballococha,Caballococha,Selva,-4.026,-70.617,BAA
+ATM_PEM,atm,Cajero automático Puerto Maldonado,Puerto Maldonado,Selva,-12.443,-69.069,BAA

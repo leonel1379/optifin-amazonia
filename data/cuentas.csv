@@ -1,0 +1,405 @@
+id,tipo,nombre,titular,ciudad,region,lat,lon,actividad,ingreso_mensual,antiguedad_meses
+C0001,cuenta,Ana Yumbato Mozombite,Ana Yumbato Mozombite,Lima,Costa,-12.0451,-77.0387,agricultor,5000,143
+C0002,cuenta,Alberto Macedo Macedo,Alberto Macedo Macedo,Iquitos,Selva,-3.7229,-73.1297,agricultor,3500,62
+C0003,cuenta,Ana Del Águila Huamán,Ana Del Águila Huamán,Lima,Costa,-12.1969,-77.1196,pescador,3500,174
+C0004,cuenta,Milagros Lozano Pinedo,Milagros Lozano Pinedo,Iquitos,Selva,-3.786,-73.3078,pescador,5000,164
+C0005,cuenta,Patricia Quispe Del Águila,Patricia Quispe Del Águila,Lima,Costa,-12.1035,-77.0223,independiente,8000,148
+C0006,cuenta,Félix Tuesta Ríos,Félix Tuesta Ríos,Iquitos,Selva,-3.6238,-73.3002,estudiante,5000,142
+C0007,cuenta,Alberto Pinedo Pezo,Alberto Pinedo Pezo,Pucallpa,Selva,-8.5171,-74.5507,agricultor,2200,108
+C0008,cuenta,Juan Tafur Mozombite,Juan Tafur Mozombite,Pucallpa,Selva,-8.2054,-74.5483,independiente,1100,134
+C0009,cuenta,Yesenia Vásquez Cárdenas,Yesenia Vásquez Cárdenas,Puerto Maldonado,Selva,-12.7361,-69.145,independiente,1100,161
+C0010,cuenta,Maribel Ramírez Arévalo,Maribel Ramírez Arévalo,Trujillo,Costa,-8.0493,-78.9518,estudiante,8000,79
+C0011,cuenta,Wilmer Tuesta Shapiama,Wilmer Tuesta Shapiama,Pucallpa,Selva,-8.3261,-74.4816,comerciante,2200,3
+C0012,cuenta,Félix Lozano Mendoza,Félix Lozano Mendoza,Lima,Costa,-11.99,-77.008,estudiante,2200,52
+C0013,cuenta,Alberto Lozano Tuesta,Alberto Lozano Tuesta,Lima,Costa,-12.0512,-77.0389,agricultor,8000,9
+C0014,cuenta,Ana Del Águila Torres,Ana Del Águila Torres,Piura,Costa,-5.26,-80.4819,pescador,5000,67
+C0015,cuenta,Yesenia Ríos Gonzales,Yesenia Ríos Gonzales,Iquitos,Selva,-3.5815,-73.0848,comerciante,3500,95
+C0016,cuenta,Roxana Pezo Huamán,Roxana Pezo Huamán,Lima,Costa,-11.9569,-77.0749,dependiente,1100,116
+C0017,cuenta,Sofía Mozombite Panaifo,Sofía Mozombite Panaifo,Tarapoto,Selva,-6.3314,-76.5101,agricultor,1100,140
+C0018,cuenta,Carlos Huamán Ahuanari,Carlos Huamán Ahuanari,Santa Rosa,Selva,-4.1593,-69.9063,pescador,5000,148
+C0019,cuenta,Lucía Arévalo Mozombite,Lucía Arévalo Mozombite,Arequipa,Sierra,-16.247,-71.5399,estudiante,5000,34
+C0020,cuenta,José Tuesta Chávez,José Tuesta Chávez,Santa Rosa,Selva,-4.0846,-69.9533,independiente,1500,151
+C0021,cuenta,Teófilo Lozano Shapiama,Teófilo Lozano Shapiama,Iquitos,Selva,-3.7807,-73.1421,estudiante,1100,28
+C0022,cuenta,Milagros Pezo Macedo,Milagros Pezo Macedo,Iquitos,Selva,-3.9026,-73.1328,dependiente,1100,131
+C0023,cuenta,Jorge Cárdenas Del Águila,Jorge Cárdenas Del Águila,Iquitos,Selva,-3.6832,-73.2709,agricultor,5000,44
+C0024,cuenta,César Del Águila Rengifo,César Del Águila Rengifo,Lima,Costa,-12.0389,-77.0669,independiente,8000,18
+C0025,cuenta,Pedro Flores Gonzales,Pedro Flores Gonzales,Pucallpa,Selva,-8.5467,-74.5,agricultor,1100,116
+C0026,cuenta,Juan Vásquez Gonzales,Juan Vásquez Gonzales,Puerto Maldonado,Selva,-12.5423,-69.1948,agricultor,1500,133
+C0027,cuenta,Pedro Pinedo Ramírez,Pedro Pinedo Ramírez,Puerto Maldonado,Selva,-12.7234,-69.131,estudiante,5000,107
+C0028,cuenta,Pedro Ramírez Del Águila,Pedro Ramírez Del Águila,Puerto Maldonado,Selva,-12.6351,-69.3016,estudiante,3500,74
+C0029,cuenta,Jorge Mendoza Lozano,Jorge Mendoza Lozano,Iquitos,Selva,-3.8117,-73.2595,agricultor,2200,25
+C0030,cuenta,Félix Gonzales Ahuanari,Félix Gonzales Ahuanari,Piura,Costa,-5.2907,-80.4687,estudiante,5000,172
+C0031,cuenta,Milagros Arévalo Chávez,Milagros Arévalo Chávez,Lima,Costa,-12.2162,-76.9182,agricultor,5000,56
+C0032,cuenta,Miguel Tafur Quispe,Miguel Tafur Quispe,Lima,Costa,-11.9682,-77.0229,agricultor,2200,172
+C0033,cuenta,Edwin Tello Panaifo,Edwin Tello Panaifo,Pucallpa,Selva,-8.5225,-74.6381,pescador,1100,92
+C0034,cuenta,Karina Ahuanari Ramírez,Karina Ahuanari Ramírez,Trujillo,Costa,-8.2252,-78.9822,agricultor,1100,75
+C0035,cuenta,Rosa Tuesta Curitima,Rosa Tuesta Curitima,Caballococha,Selva,-4.0279,-70.6048,comerciante,3500,4
+C0036,cuenta,Ana Chávez Arévalo,Ana Chávez Arévalo,Lima,Costa,-12.1413,-77.1114,agricultor,2200,81
+C0037,cuenta,María Pezo Pinedo,María Pezo Pinedo,Arequipa,Sierra,-16.3704,-71.4813,comerciante,5000,56
+C0038,cuenta,Jorge Chávez Sánchez,Jorge Chávez Sánchez,Tarapoto,Selva,-6.5136,-76.2967,agricultor,8000,65
+C0039,cuenta,Edwin Yumbato Huamán,Edwin Yumbato Huamán,Iquitos,Selva,-3.5881,-73.3047,comerciante,8000,85
+C0040,cuenta,Jorge Quispe Macedo,Jorge Quispe Macedo,Lima,Costa,-11.881,-76.9351,estudiante,2200,150
+C0041,cuenta,Segundo Flores Saavedra,Segundo Flores Saavedra,Puerto Maldonado,Selva,-12.5778,-69.2457,dependiente,1500,159
+C0042,cuenta,Hugo Huamán Tuesta,Hugo Huamán Tuesta,Lima,Costa,-12.2126,-77.0349,agricultor,1500,92
+C0043,cuenta,Julia Macedo Vásquez,Julia Macedo Vásquez,Iquitos,Selva,-3.7932,-73.1534,independiente,5000,8
+C0044,cuenta,Wilmer Yumbato Ramírez,Wilmer Yumbato Ramírez,Yurimaguas,Selva,-5.7455,-76.0568,independiente,1500,6
+C0045,cuenta,Gladys Vásquez Gonzales,Gladys Vásquez Gonzales,Lima,Costa,-12.0312,-77.0726,agricultor,1100,46
+C0046,cuenta,Karina Ruiz Ramírez,Karina Ruiz Ramírez,Pucallpa,Selva,-8.3249,-74.3869,comerciante,8000,134
+C0047,cuenta,Rosa Gonzales Mozombite,Rosa Gonzales Mozombite,Trujillo,Costa,-8.1777,-78.9722,estudiante,1100,57
+C0048,cuenta,Wilmer Torres Sánchez,Wilmer Torres Sánchez,Yurimaguas,Selva,-5.7716,-75.9692,independiente,5000,71
+C0049,cuenta,Félix Arévalo Lozano,Félix Arévalo Lozano,Iquitos,Selva,-3.8566,-73.3037,estudiante,8000,149
+C0050,cuenta,Alberto Yumbato Huamán,Alberto Yumbato Huamán,Iquitos,Selva,-3.872,-73.2852,comerciante,5000,180
+C0051,cuenta,Hugo Sánchez Arévalo,Hugo Sánchez Arévalo,Iquitos,Selva,-3.9155,-73.3709,pescador,2200,36
+C0052,cuenta,Maribel Shapiama Curitima,Maribel Shapiama Curitima,Trujillo,Costa,-8.2557,-78.8837,pescador,5000,79
+C0053,cuenta,Teófilo Lozano Gonzales,Teófilo Lozano Gonzales,Pucallpa,Selva,-8.215,-74.596,pescador,1500,131
+C0054,cuenta,Segundo Ramírez Quispe,Segundo Ramírez Quispe,Lima,Costa,-12.1749,-77.0829,dependiente,8000,152
+C0055,cuenta,Patricia Arévalo Quispe,Patricia Arévalo Quispe,Yurimaguas,Selva,-6.0137,-75.9794,comerciante,1500,100
+C0056,cuenta,Yesenia Tuesta Sánchez,Yesenia Tuesta Sánchez,Lima,Costa,-11.9571,-77.2196,agricultor,1500,133
+C0057,cuenta,Juan Yumbato Panaifo,Juan Yumbato Panaifo,Lima,Costa,-12.1127,-77.1709,agricultor,8000,165
+C0058,cuenta,Hugo Shapiama Arévalo,Hugo Shapiama Arévalo,Arequipa,Sierra,-16.2859,-71.6941,independiente,5000,157
+C0059,cuenta,Ana Curitima Ruiz,Ana Curitima Ruiz,Lima,Costa,-12.1877,-77.1055,pescador,1100,98
+C0060,cuenta,Yesenia Pezo Cárdenas,Yesenia Pezo Cárdenas,Lima,Costa,-12.1175,-77.1807,dependiente,5000,133
+C0061,cuenta,Milagros Ríos Ríos,Milagros Ríos Ríos,Lima,Costa,-12.0969,-76.9295,dependiente,3500,80
+C0062,cuenta,Edwin Mendoza Arévalo,Edwin Mendoza Arévalo,Lima,Costa,-11.9876,-77.1624,comerciante,2200,169
+C0063,cuenta,Félix Mozombite Curitima,Félix Mozombite Curitima,Piura,Costa,-5.2289,-80.7484,pescador,2200,90
+C0064,cuenta,Carlos Del Águila Saavedra,Carlos Del Águila Saavedra,Iquitos,Selva,-3.6398,-73.2956,agricultor,8000,33
+C0065,cuenta,Víctor Ruiz Curitima,Víctor Ruiz Curitima,Iquitos,Selva,-3.8106,-73.3906,estudiante,2200,38
+C0066,cuenta,Carlos Arévalo Macedo,Carlos Arévalo Macedo,Pucallpa,Selva,-8.4625,-74.6136,dependiente,2200,76
+C0067,cuenta,Segundo Torres Ahuanari,Segundo Torres Ahuanari,Pucallpa,Selva,-8.3311,-74.5892,pescador,3500,87
+C0068,cuenta,Maribel Mendoza Shapiama,Maribel Mendoza Shapiama,Lima,Costa,-11.9498,-77.0449,estudiante,2200,166
+C0069,cuenta,Rosa Ramírez Arévalo,Rosa Ramírez Arévalo,Iquitos,Selva,-3.5968,-73.1722,pescador,2200,34
+C0070,cuenta,Yesenia Curitima Yumbato,Yesenia Curitima Yumbato,Iquitos,Selva,-3.697,-73.2837,estudiante,2200,4
+C0071,cuenta,Víctor Ahuanari Huamán,Víctor Ahuanari Huamán,Lima,Costa,-12.1468,-77.1795,independiente,3500,132
+C0072,cuenta,Sofía Arévalo Macedo,Sofía Arévalo Macedo,Lima,Costa,-11.9991,-77.1946,dependiente,1100,40
+C0073,cuenta,Elena Torres Quispe,Elena Torres Quispe,Iquitos,Selva,-3.85,-73.2662,dependiente,5000,107
+C0074,cuenta,Ana Huamán Ramírez,Ana Huamán Ramírez,Trujillo,Costa,-8.0468,-79.0077,estudiante,1100,48
+C0075,cuenta,Yesenia Chávez Chávez,Yesenia Chávez Chávez,Pucallpa,Selva,-8.3742,-74.6497,comerciante,2200,89
+C0076,cuenta,Gladys Ruiz Ramírez,Gladys Ruiz Ramírez,Iquitos,Selva,-3.7563,-73.2572,dependiente,8000,126
+C0077,cuenta,Félix Shapiama Sánchez,Félix Shapiama Sánchez,Lima,Costa,-12.053,-77.0912,comerciante,5000,103
+C0078,cuenta,Carmen Saavedra Saavedra,Carmen Saavedra Saavedra,Iquitos,Selva,-3.7196,-73.1396,pescador,8000,131
+C0079,cuenta,Yesenia Rengifo Ríos,Yesenia Rengifo Ríos,Yurimaguas,Selva,-5.8063,-76.1955,agricultor,5000,153
+C0080,cuenta,Pedro Ríos Arévalo,Pedro Ríos Arévalo,Iquitos,Selva,-3.8145,-73.3107,independiente,2200,136
+C0081,cuenta,Miguel Huamán Del Águila,Miguel Huamán Del Águila,Pucallpa,Selva,-8.4212,-74.6947,independiente,1500,110
+C0082,cuenta,Víctor Macedo Curitima,Víctor Macedo Curitima,Pucallpa,Selva,-8.3694,-74.5481,pescador,3500,35
+C0083,cuenta,Wilmer Arévalo Rengifo,Wilmer Arévalo Rengifo,Pucallpa,Selva,-8.2564,-74.6157,pescador,5000,49
+C0084,cuenta,Carlos Vásquez Lozano,Carlos Vásquez Lozano,Lima,Costa,-12.0275,-76.8703,pescador,5000,16
+C0085,cuenta,Hugo Ruiz Tello,Hugo Ruiz Tello,Arequipa,Sierra,-16.2774,-71.6161,independiente,2200,139
+C0086,cuenta,Luis Macedo Tello,Luis Macedo Tello,Yurimaguas,Selva,-6.0359,-76.2424,pescador,1500,106
+C0087,cuenta,Juan Quispe Mozombite,Juan Quispe Mozombite,Tarapoto,Selva,-6.4907,-76.3434,agricultor,2200,139
+C0088,cuenta,Gladys Vásquez Torres,Gladys Vásquez Torres,Lima,Costa,-11.9811,-77.0766,agricultor,1100,121
+C0089,cuenta,Diana Ahuanari Macedo,Diana Ahuanari Macedo,Lima,Costa,-12.1919,-77.012,dependiente,1500,129
+C0090,cuenta,Edwin Shapiama Ruiz,Edwin Shapiama Ruiz,Lima,Costa,-11.9321,-77.0708,independiente,1500,58
+C0091,cuenta,Maribel Curitima Tuesta,Maribel Curitima Tuesta,Yurimaguas,Selva,-5.904,-76.169,pescador,3500,118
+C0092,cuenta,Roxana Pezo Arévalo,Roxana Pezo Arévalo,Piura,Costa,-5.1202,-80.4634,agricultor,3500,24
+C0093,cuenta,José Sánchez Torres,José Sánchez Torres,Puerto Maldonado,Selva,-12.697,-69.2986,pescador,5000,177
+C0094,cuenta,Sofía Yumbato Tuesta,Sofía Yumbato Tuesta,Lima,Costa,-12.164,-76.9922,dependiente,5000,38
+C0095,cuenta,Patricia Saavedra Sánchez,Patricia Saavedra Sánchez,Tarapoto,Selva,-6.3381,-76.2558,estudiante,1100,123
+C0096,cuenta,Alberto Vásquez Panaifo,Alberto Vásquez Panaifo,Pucallpa,Selva,-8.2398,-74.4304,independiente,5000,57
+C0097,cuenta,Luis Pezo Torres,Luis Pezo Torres,Nauta,Selva,-4.5228,-73.5439,pescador,5000,84
+C0098,cuenta,Félix Sánchez Arévalo,Félix Sánchez Arévalo,Trujillo,Costa,-7.9438,-79.1806,agricultor,5000,26
+C0099,cuenta,María Ríos Mendoza,María Ríos Mendoza,Arequipa,Sierra,-16.4822,-71.688,estudiante,5000,28
+C0100,cuenta,Félix Rengifo Cárdenas,Félix Rengifo Cárdenas,Iquitos,Selva,-3.6966,-73.226,agricultor,1100,40
+C0101,cuenta,José Tello Arévalo,José Tello Arévalo,Puerto Maldonado,Selva,-12.7246,-69.3311,comerciante,1100,12
+C0102,cuenta,Jorge Saavedra Curitima,Jorge Saavedra Curitima,Trujillo,Costa,-8.2664,-78.9923,comerciante,8000,40
+C0103,cuenta,Félix Torres Mozombite,Félix Torres Mozombite,Iquitos,Selva,-3.7595,-73.317,estudiante,1500,132
+C0104,cuenta,Raúl Rengifo Tello,Raúl Rengifo Tello,Puerto Maldonado,Selva,-12.6605,-69.3541,estudiante,1500,30
+C0105,cuenta,Juan Cárdenas Shapiama,Juan Cárdenas Shapiama,Tarapoto,Selva,-6.4544,-76.3662,estudiante,8000,9
+C0106,cuenta,Teófilo Ahuanari Ramírez,Teófilo Ahuanari Ramírez,Pucallpa,Selva,-8.2765,-74.6269,estudiante,8000,149
+C0107,cuenta,Teófilo Panaifo Tafur,Teófilo Panaifo Tafur,Lima,Costa,-12.0092,-77.0358,comerciante,1500,151
+C0108,cuenta,Jorge Lozano Panaifo,Jorge Lozano Panaifo,Lima,Costa,-12.1648,-77.0771,estudiante,3500,2
+C0109,cuenta,Elena Mendoza Ramírez,Elena Mendoza Ramírez,Lima,Costa,-12.2076,-76.9524,comerciante,1100,66
+C0110,cuenta,Segundo Panaifo Yumbato,Segundo Panaifo Yumbato,Lima,Costa,-11.8979,-77.1443,estudiante,5000,171
+C0111,cuenta,Félix Ruiz Mendoza,Félix Ruiz Mendoza,Lima,Costa,-11.8804,-76.8706,pescador,1100,49
+C0112,cuenta,José Tello Gonzales,José Tello Gonzales,Yurimaguas,Selva,-5.7324,-76.2861,dependiente,2200,53
+C0113,cuenta,Diana Ríos Yumbato,Diana Ríos Yumbato,Lima,Costa,-12.0036,-77.2073,pescador,8000,140
+C0114,cuenta,Raúl Cárdenas Ruiz,Raúl Cárdenas Ruiz,Lima,Costa,-11.9972,-77.0129,dependiente,5000,91
+C0115,cuenta,María Huamán Tuesta,María Huamán Tuesta,Lima,Costa,-12.0845,-77.1915,estudiante,5000,23
+C0116,cuenta,Elena Arévalo Shapiama,Elena Arévalo Shapiama,Iquitos,Selva,-3.7049,-73.3712,agricultor,2200,103
+C0117,cuenta,José Huamán Sánchez,José Huamán Sánchez,Lima,Costa,-11.9934,-77.1622,dependiente,8000,34
+C0118,cuenta,Raúl Ruiz Ruiz,Raúl Ruiz Ruiz,Huancayo,Sierra,-12.0409,-75.1979,estudiante,8000,39
+C0119,cuenta,Jorge Vásquez Huamán,Jorge Vásquez Huamán,Yurimaguas,Selva,-5.9659,-76.1248,estudiante,1100,179
+C0120,cuenta,Karina Sánchez Ríos,Karina Sánchez Ríos,Pucallpa,Selva,-8.4083,-74.529,pescador,8000,152
+C0121,cuenta,Raúl Quispe Rengifo,Raúl Quispe Rengifo,Lima,Costa,-12.1352,-77.1814,pescador,5000,175
+C0122,cuenta,Rosa Huamán Ahuanari,Rosa Huamán Ahuanari,Huancayo,Sierra,-12.1803,-75.1153,pescador,1500,118
+C0123,cuenta,Elena Rengifo Mendoza,Elena Rengifo Mendoza,Tarapoto,Selva,-6.5796,-76.3703,pescador,3500,29
+C0124,cuenta,Carlos Tuesta Ramírez,Carlos Tuesta Ramírez,Lima,Costa,-12.2246,-77.0331,dependiente,3500,156
+C0125,cuenta,Rosa Del Águila Tafur,Rosa Del Águila Tafur,Lima,Costa,-12.1718,-76.9949,dependiente,1100,59
+C0126,cuenta,Liliana Ramírez Del Águila,Liliana Ramírez Del Águila,Piura,Costa,-5.2142,-80.7874,estudiante,8000,77
+C0127,cuenta,Patricia Curitima Ahuanari,Patricia Curitima Ahuanari,Lima,Costa,-11.9597,-77.0752,independiente,1100,157
+C0128,cuenta,Patricia Torres Macedo,Patricia Torres Macedo,Pucallpa,Selva,-8.4854,-74.377,estudiante,1500,178
+C0129,cuenta,Liliana Vásquez Rengifo,Liliana Vásquez Rengifo,Yurimaguas,Selva,-6.0223,-76.2665,comerciante,8000,138
+C0130,cuenta,Maribel Arévalo Pinedo,Maribel Arévalo Pinedo,Iquitos,Selva,-3.7071,-73.324,pescador,2200,89
+C0131,cuenta,Hugo Flores Saavedra,Hugo Flores Saavedra,Puerto Maldonado,Selva,-12.6102,-69.3058,agricultor,1500,77
+C0132,cuenta,Roxana Pinedo Gonzales,Roxana Pinedo Gonzales,Lima,Costa,-12.071,-77.014,estudiante,8000,16
+C0133,cuenta,Karina Ahuanari Arévalo,Karina Ahuanari Arévalo,Tarapoto,Selva,-6.4014,-76.2521,comerciante,3500,58
+C0134,cuenta,Karina Quispe Lozano,Karina Quispe Lozano,Huancayo,Sierra,-12.0184,-75.1914,pescador,5000,130
+C0135,cuenta,Teófilo Mozombite Huamán,Teófilo Mozombite Huamán,Iquitos,Selva,-3.5726,-73.1626,estudiante,5000,110
+C0136,cuenta,Raúl Arévalo Tafur,Raúl Arévalo Tafur,Iquitos,Selva,-3.6078,-73.3019,estudiante,2200,8
+C0137,cuenta,Wilmer Cárdenas Ruiz,Wilmer Cárdenas Ruiz,Lima,Costa,-12.1485,-77.0464,independiente,3500,132
+C0138,cuenta,Ana Panaifo Shapiama,Ana Panaifo Shapiama,Lima,Costa,-12.2148,-77.1926,estudiante,1100,118
+C0139,cuenta,Ana Tuesta Mozombite,Ana Tuesta Mozombite,Tarapoto,Selva,-6.4381,-76.1823,comerciante,2200,1
+C0140,cuenta,Carlos Del Águila Gonzales,Carlos Del Águila Gonzales,Lima,Costa,-12.2021,-77.1,estudiante,1100,165
+C0141,cuenta,Segundo Curitima Cárdenas,Segundo Curitima Cárdenas,Lima,Costa,-11.9314,-76.9083,comerciante,5000,47
+C0142,cuenta,Félix Curitima Pezo,Félix Curitima Pezo,Lima,Costa,-12.1013,-77.1692,dependiente,5000,109
+C0143,cuenta,Félix Tuesta Yumbato,Félix Tuesta Yumbato,Trujillo,Costa,-8.2449,-79.2016,dependiente,3500,128
+C0144,cuenta,Luis Tuesta Tello,Luis Tuesta Tello,Lima,Costa,-12.0548,-76.954,estudiante,8000,18
+C0145,cuenta,Ana Sánchez Tello,Ana Sánchez Tello,Lima,Costa,-12.0298,-77.1337,dependiente,1500,155
+C0146,cuenta,Edwin Lozano Panaifo,Edwin Lozano Panaifo,Tarapoto,Selva,-6.5563,-76.2606,pescador,1500,94
+C0147,cuenta,José Tafur Macedo,José Tafur Macedo,Caballococha,Selva,-4.0587,-70.3816,agricultor,2200,82
+C0148,cuenta,Julia Saavedra Ruiz,Julia Saavedra Ruiz,Iquitos,Selva,-3.7076,-73.2248,agricultor,5000,47
+C0149,cuenta,Diana Mendoza Del Águila,Diana Mendoza Del Águila,Pucallpa,Selva,-8.4679,-74.533,comerciante,3500,67
+C0150,cuenta,Roxana Tello Sánchez,Roxana Tello Sánchez,Lima,Costa,-11.8903,-76.961,agricultor,2200,68
+C0151,cuenta,Sofía Rengifo Rengifo,Sofía Rengifo Rengifo,Iquitos,Selva,-3.615,-73.3442,comerciante,8000,82
+C0152,cuenta,César Pinedo Gonzales,César Pinedo Gonzales,Trujillo,Costa,-7.9464,-79.1648,estudiante,5000,119
+C0153,cuenta,Edwin Macedo Chávez,Edwin Macedo Chávez,Tarapoto,Selva,-6.4238,-76.1888,estudiante,5000,84
+C0154,cuenta,Liliana Saavedra Sánchez,Liliana Saavedra Sánchez,Pucallpa,Selva,-8.43,-74.4592,comerciante,3500,3
+C0155,cuenta,Patricia Arévalo Arévalo,Patricia Arévalo Arévalo,Iquitos,Selva,-3.7612,-73.2159,dependiente,1100,85
+C0156,cuenta,Diana Huamán Shapiama,Diana Huamán Shapiama,Iquitos,Selva,-3.7908,-73.1038,independiente,1100,20
+C0157,cuenta,Maribel Del Águila Panaifo,Maribel Del Águila Panaifo,Lima,Costa,-12.2081,-77.0908,pescador,5000,138
+C0158,cuenta,Ana Curitima Tuesta,Ana Curitima Tuesta,Pucallpa,Selva,-8.3367,-74.6289,independiente,1100,178
+C0159,cuenta,Carmen Tafur Curitima,Carmen Tafur Curitima,Huancayo,Sierra,-11.9182,-75.0981,pescador,8000,100
+C0160,cuenta,Juan Macedo Macedo,Juan Macedo Macedo,Lima,Costa,-12.0673,-76.9228,comerciante,3500,95
+C0161,cuenta,Luis Tuesta Quispe,Luis Tuesta Quispe,Pucallpa,Selva,-8.2585,-74.5742,independiente,2200,164
+C0162,cuenta,Luis Ríos Del Águila,Luis Ríos Del Águila,Caballococha,Selva,-3.893,-70.4786,agricultor,3500,123
+C0163,cuenta,Patricia Macedo Macedo,Patricia Macedo Macedo,Iquitos,Selva,-3.7001,-73.1506,dependiente,1500,111
+C0164,cuenta,Carlos Shapiama Ahuanari,Carlos Shapiama Ahuanari,Lima,Costa,-11.8792,-77.0567,independiente,8000,76
+C0165,cuenta,Carmen Sánchez Pinedo,Carmen Sánchez Pinedo,Lima,Costa,-12.1889,-77.0551,dependiente,1100,94
+C0166,cuenta,Sofía Ahuanari Ramírez,Sofía Ahuanari Ramírez,Pucallpa,Selva,-8.5256,-74.5341,dependiente,2200,138
+C0167,cuenta,Julia Del Águila Arévalo,Julia Del Águila Arévalo,Pucallpa,Selva,-8.2623,-74.7067,comerciante,1500,44
+C0168,cuenta,Liliana Ramírez Tafur,Liliana Ramírez Tafur,Lima,Costa,-12.0272,-76.9771,pescador,3500,93
+C0169,cuenta,Yesenia Ríos Pezo,Yesenia Ríos Pezo,Lima,Costa,-11.9524,-76.8853,pescador,5000,35
+C0170,cuenta,Maribel Flores Arévalo,Maribel Flores Arévalo,Tarapoto,Selva,-6.5637,-76.1867,comerciante,1500,71
+C0171,cuenta,Carlos Ramírez Del Águila,Carlos Ramírez Del Águila,Iquitos,Selva,-3.5971,-73.1028,estudiante,8000,27
+C0172,cuenta,Nelly Ríos Cárdenas,Nelly Ríos Cárdenas,Lima,Costa,-12.1815,-76.8747,comerciante,2200,77
+C0173,cuenta,Luis Pezo Ríos,Luis Pezo Ríos,Lima,Costa,-11.887,-76.8953,comerciante,3500,24
+C0174,cuenta,Rosa Huamán Ahuanari,Rosa Huamán Ahuanari,Puerto Maldonado,Selva,-12.5375,-69.0316,independiente,1100,161
+C0175,cuenta,Teófilo Ruiz Tuesta,Teófilo Ruiz Tuesta,Piura,Costa,-5.3402,-80.6324,pescador,2200,139
+C0176,cuenta,Alberto Pezo Chávez,Alberto Pezo Chávez,Trujillo,Costa,-8.2132,-79.0802,estudiante,8000,110
+C0177,cuenta,Sofía Arévalo Ramírez,Sofía Arévalo Ramírez,Lima,Costa,-11.9916,-76.9084,agricultor,8000,135
+C0178,cuenta,José Gonzales Gonzales,José Gonzales Gonzales,Iquitos,Selva,-3.7841,-73.1234,dependiente,3500,120
+C0179,cuenta,Yesenia Vásquez Curitima,Yesenia Vásquez Curitima,Caballococha,Selva,-4.0672,-70.4816,pescador,3500,104
+C0180,cuenta,Jorge Ramírez Panaifo,Jorge Ramírez Panaifo,Lima,Costa,-11.8965,-76.9126,independiente,3500,58
+C0181,cuenta,Rosa Panaifo Flores,Rosa Panaifo Flores,Tarapoto,Selva,-6.5668,-76.4632,pescador,5000,122
+C0182,cuenta,Lucía Ruiz Shapiama,Lucía Ruiz Shapiama,Iquitos,Selva,-3.7872,-73.1441,pescador,5000,78
+C0183,cuenta,Edwin Arévalo Tuesta,Edwin Arévalo Tuesta,Lima,Costa,-11.9557,-77.12,independiente,1100,102
+C0184,cuenta,Maribel Saavedra Rengifo,Maribel Saavedra Rengifo,Iquitos,Selva,-3.7965,-73.3556,agricultor,8000,126
+C0185,cuenta,César Arévalo Ríos,César Arévalo Ríos,Lima,Costa,-12.1118,-76.9659,independiente,8000,69
+C0186,cuenta,Julia Pezo Quispe,Julia Pezo Quispe,Lima,Costa,-12.0604,-77.1436,agricultor,3500,120
+C0187,cuenta,Patricia Torres Ríos,Patricia Torres Ríos,Piura,Costa,-5.3586,-80.7133,pescador,1100,71
+C0188,cuenta,Carmen Macedo Pinedo,Carmen Macedo Pinedo,Piura,Costa,-5.094,-80.691,agricultor,5000,111
+C0189,cuenta,Víctor Panaifo Torres,Víctor Panaifo Torres,Trujillo,Costa,-8.1412,-79.1659,dependiente,5000,34
+C0190,cuenta,Gladys Mozombite Ramírez,Gladys Mozombite Ramírez,Lima,Costa,-12.1088,-77.0152,agricultor,8000,70
+C0191,cuenta,Víctor Macedo Cárdenas,Víctor Macedo Cárdenas,Lima,Costa,-12.124,-77.1617,comerciante,3500,133
+C0192,cuenta,Segundo Vásquez Ramírez,Segundo Vásquez Ramírez,Trujillo,Costa,-7.9339,-79.1822,comerciante,3500,3
+C0193,cuenta,Wilmer Macedo Arévalo,Wilmer Macedo Arévalo,Lima,Costa,-11.8793,-77.0005,pescador,1100,144
+C0194,cuenta,María Gonzales Ahuanari,María Gonzales Ahuanari,Lima,Costa,-12.2063,-77.2173,pescador,1500,5
+C0195,cuenta,Ana Del Águila Macedo,Ana Del Águila Macedo,Lima,Costa,-12.2075,-77.2166,dependiente,1500,153
+C0196,cuenta,Óscar Del Águila Flores,Óscar Del Águila Flores,Lima,Costa,-12.1537,-77.1442,independiente,1100,80
+C0197,cuenta,Teófilo Torres Macedo,Teófilo Torres Macedo,Pucallpa,Selva,-8.3777,-74.5714,dependiente,3500,103
+C0198,cuenta,Raúl Sánchez Ríos,Raúl Sánchez Ríos,Piura,Costa,-5.0507,-80.702,dependiente,1100,48
+C0199,cuenta,Luis Curitima Quispe,Luis Curitima Quispe,Lima,Costa,-12.0418,-76.8819,dependiente,8000,53
+C0200,cuenta,Sofía Macedo Del Águila,Sofía Macedo Del Águila,Lima,Costa,-12.2235,-77.163,dependiente,3500,127
+C0201,cuenta,Raúl Pezo Flores,Raúl Pezo Flores,Lima,Costa,-11.899,-77.1588,dependiente,1500,108
+C0202,cuenta,Carlos Macedo Rengifo,Carlos Macedo Rengifo,Iquitos,Selva,-3.745,-73.3993,estudiante,3500,6
+C0203,cuenta,Pedro Tafur Torres,Pedro Tafur Torres,Puerto Maldonado,Selva,-12.4898,-69.1517,agricultor,1500,53
+C0204,cuenta,Sofía Shapiama Cárdenas,Sofía Shapiama Cárdenas,Tarapoto,Selva,-6.484,-76.2755,dependiente,1500,125
+C0205,cuenta,Óscar Arévalo Curitima,Óscar Arévalo Curitima,Yurimaguas,Selva,-6.0457,-76.152,dependiente,1500,150
+C0206,cuenta,Patricia Cárdenas Pezo,Patricia Cárdenas Pezo,Puerto Maldonado,Selva,-12.559,-69.3308,dependiente,8000,104
+C0207,cuenta,Gladys Flores Tuesta,Gladys Flores Tuesta,Iquitos,Selva,-3.8063,-73.3395,estudiante,1500,85
+C0208,cuenta,Teófilo Vásquez Yumbato,Teófilo Vásquez Yumbato,Lima,Costa,-12.0466,-76.9399,comerciante,5000,119
+C0209,cuenta,Víctor Panaifo Del Águila,Víctor Panaifo Del Águila,Lima,Costa,-12.0284,-77.1902,pescador,8000,42
+C0210,cuenta,Nelly Pinedo Lozano,Nelly Pinedo Lozano,Iquitos,Selva,-3.8483,-73.0779,independiente,5000,44
+C0211,cuenta,Pedro Huamán Mendoza,Pedro Huamán Mendoza,Pucallpa,Selva,-8.2014,-74.4239,pescador,8000,35
+C0212,cuenta,Juan Saavedra Quispe,Juan Saavedra Quispe,Trujillo,Costa,-8.1804,-78.9817,independiente,3500,42
+C0213,cuenta,Juan Lozano Yumbato,Juan Lozano Yumbato,Pucallpa,Selva,-8.2189,-74.4838,pescador,5000,163
+C0214,cuenta,Jorge Arévalo Mendoza,Jorge Arévalo Mendoza,Yurimaguas,Selva,-6.0661,-76.2813,agricultor,8000,143
+C0215,cuenta,Félix Pezo Arévalo,Félix Pezo Arévalo,Iquitos,Selva,-3.8215,-73.3204,dependiente,1100,60
+C0216,cuenta,Pedro Pinedo Tafur,Pedro Pinedo Tafur,Lima,Costa,-12.0009,-77.0995,comerciante,8000,112
+C0217,cuenta,Teófilo Ruiz Lozano,Teófilo Ruiz Lozano,Trujillo,Costa,-8.2219,-78.9767,independiente,3500,102
+C0218,cuenta,Wilmer Gonzales Panaifo,Wilmer Gonzales Panaifo,Yurimaguas,Selva,-5.8505,-76.2549,independiente,1100,49
+C0219,cuenta,María Huamán Tello,María Huamán Tello,Pucallpa,Selva,-8.4346,-74.7111,independiente,1500,140
+C0220,cuenta,César Shapiama Ramírez,César Shapiama Ramírez,Iquitos,Selva,-3.6547,-73.2242,independiente,1500,126
+C0221,cuenta,Gladys Flores Ríos,Gladys Flores Ríos,Lima,Costa,-12.0836,-77.1083,independiente,8000,93
+C0222,cuenta,Luis Tuesta Shapiama,Luis Tuesta Shapiama,Lima,Costa,-11.963,-76.8699,pescador,3500,19
+C0223,cuenta,Carmen Gonzales Panaifo,Carmen Gonzales Panaifo,Trujillo,Costa,-7.9614,-78.9339,independiente,2200,58
+C0224,cuenta,Segundo Sánchez Flores,Segundo Sánchez Flores,Lima,Costa,-12.0943,-77.0726,agricultor,5000,168
+C0225,cuenta,Gladys Ramírez Shapiama,Gladys Ramírez Shapiama,Iquitos,Selva,-3.7327,-73.155,dependiente,3500,20
+C0226,cuenta,Carlos Tello Sánchez,Carlos Tello Sánchez,Lima,Costa,-11.8954,-76.8871,dependiente,1500,28
+C0227,cuenta,Jorge Ríos Ramírez,Jorge Ríos Ramírez,Iquitos,Selva,-3.872,-73.3006,agricultor,1500,154
+C0228,cuenta,Miguel Quispe Panaifo,Miguel Quispe Panaifo,Yurimaguas,Selva,-5.7864,-76.0122,agricultor,1100,136
+C0229,cuenta,Carmen Ruiz Mozombite,Carmen Ruiz Mozombite,Lima,Costa,-12.1489,-77.0397,comerciante,1500,30
+C0230,cuenta,Miguel Torres Lozano,Miguel Torres Lozano,Puerto Maldonado,Selva,-12.7259,-69.306,agricultor,8000,178
+C0231,cuenta,Maribel Del Águila Cárdenas,Maribel Del Águila Cárdenas,Iquitos,Selva,-3.753,-73.1092,estudiante,1100,75
+C0232,cuenta,Patricia Ruiz Pinedo,Patricia Ruiz Pinedo,Trujillo,Costa,-8.1625,-78.8817,agricultor,8000,84
+C0233,cuenta,Roxana Tuesta Ramírez,Roxana Tuesta Ramírez,Lima,Costa,-12.1712,-77.1725,dependiente,8000,41
+C0234,cuenta,Alberto Quispe Ramírez,Alberto Quispe Ramírez,Tarapoto,Selva,-6.3437,-76.3139,pescador,8000,114
+C0235,cuenta,Félix Ríos Mozombite,Félix Ríos Mozombite,Iquitos,Selva,-3.9148,-73.1342,agricultor,1500,101
+C0236,cuenta,Patricia Tafur Pinedo,Patricia Tafur Pinedo,Trujillo,Costa,-8.0538,-79.0864,comerciante,3500,3
+C0237,cuenta,Julia Mozombite Shapiama,Julia Mozombite Shapiama,Pucallpa,Selva,-8.5417,-74.5792,agricultor,3500,173
+C0238,cuenta,Félix Panaifo Huamán,Félix Panaifo Huamán,Tarapoto,Selva,-6.5271,-76.2361,agricultor,5000,103
+C0239,cuenta,Hugo Lozano Ruiz,Hugo Lozano Ruiz,Lima,Costa,-12.1229,-76.9246,dependiente,1500,118
+C0240,cuenta,Lucía Ruiz Tuesta,Lucía Ruiz Tuesta,Lima,Costa,-12.1132,-77.0288,estudiante,8000,2
+C0241,cuenta,Liliana Sánchez Ríos,Liliana Sánchez Ríos,Iquitos,Selva,-3.7891,-73.2196,estudiante,8000,78
+C0242,cuenta,María Chávez Yumbato,María Chávez Yumbato,Pucallpa,Selva,-8.3792,-74.5444,independiente,5000,111
+C0243,cuenta,Maribel Yumbato Del Águila,Maribel Yumbato Del Águila,Lima,Costa,-12.161,-77.0139,estudiante,5000,86
+C0244,cuenta,Alberto Ríos Panaifo,Alberto Ríos Panaifo,Lima,Costa,-11.8977,-76.9645,dependiente,1100,146
+C0245,cuenta,Juan Huamán Tello,Juan Huamán Tello,Pucallpa,Selva,-8.2761,-74.5863,agricultor,1500,43
+C0246,cuenta,José Gonzales Pezo,José Gonzales Pezo,Piura,Costa,-5.067,-80.8059,estudiante,5000,38
+C0247,cuenta,Alberto Mendoza Vásquez,Alberto Mendoza Vásquez,Huancayo,Sierra,-12.0573,-75.2715,dependiente,8000,98
+C0248,cuenta,Víctor Shapiama Ríos,Víctor Shapiama Ríos,Trujillo,Costa,-8.0,-79.1095,estudiante,3500,70
+C0249,cuenta,Elena Gonzales Shapiama,Elena Gonzales Shapiama,Iquitos,Selva,-3.6398,-73.3353,dependiente,3500,179
+C0250,cuenta,José Quispe Ríos,José Quispe Ríos,Iquitos,Selva,-3.7708,-73.2184,pescador,2200,56
+C0251,cuenta,Roxana Gonzales Lozano,Roxana Gonzales Lozano,Piura,Costa,-5.1005,-80.7076,agricultor,8000,101
+C0252,cuenta,Carmen Arévalo Pezo,Carmen Arévalo Pezo,Iquitos,Selva,-3.6981,-73.1227,agricultor,5000,10
+C0253,cuenta,Edwin Torres Pinedo,Edwin Torres Pinedo,Arequipa,Sierra,-16.5111,-71.6908,agricultor,3500,152
+C0254,cuenta,José Mozombite Mendoza,José Mozombite Mendoza,Lima,Costa,-11.9099,-77.0554,independiente,1100,45
+C0255,cuenta,José Sánchez Chávez,José Sánchez Chávez,Puerto Maldonado,Selva,-12.6747,-69.0346,dependiente,8000,33
+C0256,cuenta,Pedro Flores Cárdenas,Pedro Flores Cárdenas,Tarapoto,Selva,-6.3907,-76.4054,comerciante,1500,87
+C0257,cuenta,Sofía Cárdenas Panaifo,Sofía Cárdenas Panaifo,Iquitos,Selva,-3.8134,-73.2281,estudiante,8000,104
+C0258,cuenta,María Torres Tuesta,María Torres Tuesta,Lima,Costa,-12.1085,-77.0682,pescador,2200,81
+C0259,cuenta,Óscar Rengifo Macedo,Óscar Rengifo Macedo,Lima,Costa,-11.9171,-77.195,comerciante,3500,9
+C0260,cuenta,Maribel Quispe Ahuanari,Maribel Quispe Ahuanari,Piura,Costa,-5.1678,-80.4668,pescador,1100,8
+C0261,cuenta,Jorge Yumbato Quispe,Jorge Yumbato Quispe,Iquitos,Selva,-3.8324,-73.2453,agricultor,1100,1
+C0262,cuenta,Óscar Tuesta Flores,Óscar Tuesta Flores,Lima,Costa,-11.9372,-77.2,comerciante,8000,8
+C0263,cuenta,Karina Saavedra Yumbato,Karina Saavedra Yumbato,Pucallpa,Selva,-8.2591,-74.4104,dependiente,5000,85
+C0264,cuenta,Nelly Ríos Pezo,Nelly Ríos Pezo,Piura,Costa,-5.0938,-80.4774,dependiente,1100,16
+C0265,cuenta,César Torres Yumbato,César Torres Yumbato,Lima,Costa,-11.9711,-76.896,comerciante,2200,80
+C0266,cuenta,Alberto Sánchez Saavedra,Alberto Sánchez Saavedra,Iquitos,Selva,-3.797,-73.0756,pescador,1500,159
+C0267,cuenta,Elena Sánchez Quispe,Elena Sánchez Quispe,Tarapoto,Selva,-6.6188,-76.5151,agricultor,8000,10
+C0268,cuenta,Carmen Arévalo Gonzales,Carmen Arévalo Gonzales,Piura,Costa,-5.1543,-80.5107,agricultor,5000,16
+C0269,cuenta,Carmen Lozano Quispe,Carmen Lozano Quispe,Lima,Costa,-12.0086,-77.1331,independiente,1500,125
+C0270,cuenta,Roxana Tafur Ahuanari,Roxana Tafur Ahuanari,Tarapoto,Selva,-6.5894,-76.4023,dependiente,3500,135
+C0271,cuenta,Félix Quispe Ramírez,Félix Quispe Ramírez,Iquitos,Selva,-3.5884,-73.3822,pescador,5000,3
+C0272,cuenta,María Saavedra Pinedo,María Saavedra Pinedo,Iquitos,Selva,-3.8328,-73.2147,comerciante,2200,134
+C0273,cuenta,Lucía Macedo Ahuanari,Lucía Macedo Ahuanari,Piura,Costa,-5.0448,-80.5423,independiente,5000,70
+C0274,cuenta,Teófilo Lozano Tuesta,Teófilo Lozano Tuesta,Iquitos,Selva,-3.6509,-73.4057,pescador,1500,67
+C0275,cuenta,Óscar Cárdenas Lozano,Óscar Cárdenas Lozano,Lima,Costa,-12.1021,-77.1937,comerciante,1100,106
+C0276,cuenta,Liliana Gonzales Rengifo,Liliana Gonzales Rengifo,Tarapoto,Selva,-6.5638,-76.3908,agricultor,8000,31
+C0277,cuenta,Félix Rengifo Pezo,Félix Rengifo Pezo,Tarapoto,Selva,-6.4306,-76.4514,dependiente,2200,57
+C0278,cuenta,Roxana Pinedo Shapiama,Roxana Pinedo Shapiama,Yurimaguas,Selva,-5.9049,-76.1373,pescador,5000,133
+C0279,cuenta,Rosa Quispe Saavedra,Rosa Quispe Saavedra,Tarapoto,Selva,-6.4319,-76.514,pescador,2200,20
+C0280,cuenta,Julia Gonzales Gonzales,Julia Gonzales Gonzales,Pucallpa,Selva,-8.2616,-74.4063,comerciante,1100,110
+C0281,cuenta,Ana Ramírez Shapiama,Ana Ramírez Shapiama,Tarapoto,Selva,-6.554,-76.2003,agricultor,8000,93
+C0282,cuenta,Jorge Mendoza Flores,Jorge Mendoza Flores,Santa Rosa,Selva,-4.1372,-69.7794,pescador,3500,90
+C0283,cuenta,Carlos Torres Ramírez,Carlos Torres Ramírez,Iquitos,Selva,-3.7377,-73.1022,pescador,3500,103
+C0284,cuenta,Rosa Tello Mendoza,Rosa Tello Mendoza,Lima,Costa,-12.1646,-77.1702,comerciante,5000,87
+C0285,cuenta,Juan Lozano Tello,Juan Lozano Tello,Lima,Costa,-11.8717,-76.9271,pescador,2200,161
+C0286,cuenta,Maribel Ríos Ruiz,Maribel Ríos Ruiz,Iquitos,Selva,-3.7076,-73.1894,estudiante,3500,133
+C0287,cuenta,Wilmer Macedo Chávez,Wilmer Macedo Chávez,Pucallpa,Selva,-8.3748,-74.5272,dependiente,3500,153
+C0288,cuenta,Gladys Cárdenas Ahuanari,Gladys Cárdenas Ahuanari,Iquitos,Selva,-3.6162,-73.1999,estudiante,3500,3
+C0289,cuenta,Teófilo Shapiama Pezo,Teófilo Shapiama Pezo,Trujillo,Costa,-8.1626,-78.9346,pescador,8000,180
+C0290,cuenta,Nelly Cárdenas Flores,Nelly Cárdenas Flores,Yurimaguas,Selva,-5.8282,-76.051,agricultor,5000,127
+C0291,cuenta,Pedro Ramírez Macedo,Pedro Ramírez Macedo,Pucallpa,Selva,-8.4913,-74.592,comerciante,5000,117
+C0292,cuenta,Sofía Tuesta Gonzales,Sofía Tuesta Gonzales,Lima,Costa,-12.063,-77.0355,comerciante,1100,52
+C0293,cuenta,Elena Ruiz Vásquez,Elena Ruiz Vásquez,Lima,Costa,-12.2003,-77.192,agricultor,1100,53
+C0294,cuenta,Teófilo Flores Cárdenas,Teófilo Flores Cárdenas,Arequipa,Sierra,-16.4247,-71.7057,estudiante,3500,130
+C0295,cuenta,Milagros Cárdenas Tafur,Milagros Cárdenas Tafur,Nauta,Selva,-4.3995,-73.5132,dependiente,1100,29
+C0296,cuenta,Pedro Pezo Rengifo,Pedro Pezo Rengifo,Nauta,Selva,-4.3766,-73.5533,independiente,8000,136
+C0297,cuenta,Víctor Ahuanari Macedo,Víctor Ahuanari Macedo,Lima,Costa,-12.0655,-76.8795,dependiente,8000,71
+C0298,cuenta,Miguel Cárdenas Gonzales,Miguel Cárdenas Gonzales,Lima,Costa,-11.9165,-77.1803,agricultor,3500,49
+C0299,cuenta,Hugo Cárdenas Ríos,Hugo Cárdenas Ríos,Iquitos,Selva,-3.756,-73.1445,comerciante,3500,51
+C0300,cuenta,Víctor Sánchez Vásquez,Víctor Sánchez Vásquez,Lima,Costa,-12.1932,-76.8742,agricultor,3500,123
+C0301,cuenta,Diana Curitima Curitima,Diana Curitima Curitima,Lima,Costa,-12.1635,-77.0618,dependiente,2200,58
+C0302,cuenta,Pedro Mendoza Tello,Pedro Mendoza Tello,Piura,Costa,-5.1683,-80.6623,comerciante,1500,32
+C0303,cuenta,José Yumbato Lozano,José Yumbato Lozano,Santa Rosa,Selva,-4.1013,-70.0641,agricultor,1500,131
+C0304,cuenta,César Lozano Cárdenas,César Lozano Cárdenas,Lima,Costa,-12.1216,-77.001,comerciante,2200,19
+C0305,cuenta,Wilmer Tello Curitima,Wilmer Tello Curitima,Arequipa,Sierra,-16.4715,-71.5238,pescador,3500,20
+C0306,cuenta,Juan Lozano Saavedra,Juan Lozano Saavedra,Nauta,Selva,-4.5562,-73.4205,pescador,2200,163
+C0307,cuenta,Liliana Tello Pinedo,Liliana Tello Pinedo,Lima,Costa,-12.0932,-77.198,agricultor,2200,139
+C0308,cuenta,Luis Tello Cárdenas,Luis Tello Cárdenas,Lima,Costa,-11.9024,-76.9542,dependiente,1100,93
+C0309,cuenta,Hugo Tuesta Huamán,Hugo Tuesta Huamán,Lima,Costa,-11.923,-77.0798,comerciante,2200,24
+C0310,cuenta,Juan Curitima Gonzales,Juan Curitima Gonzales,Nauta,Selva,-4.4601,-73.6829,dependiente,3500,18
+C0311,cuenta,César Del Águila Macedo,César Del Águila Macedo,Iquitos,Selva,-3.7904,-73.1204,independiente,8000,44
+C0312,cuenta,Julia Flores Pezo,Julia Flores Pezo,Lima,Costa,-12.1297,-77.0299,independiente,1500,103
+C0313,cuenta,Teófilo Tafur Mendoza,Teófilo Tafur Mendoza,Trujillo,Costa,-8.1999,-78.9194,independiente,1500,61
+C0314,cuenta,César Curitima Lozano,César Curitima Lozano,Pucallpa,Selva,-8.4627,-74.7328,agricultor,8000,1
+C0315,cuenta,Carlos Lozano Del Águila,Carlos Lozano Del Águila,Yurimaguas,Selva,-6.0408,-76.0809,comerciante,2200,60
+C0316,cuenta,Diana Quispe Cárdenas,Diana Quispe Cárdenas,Puerto Maldonado,Selva,-12.6609,-69.0683,comerciante,2200,170
+C0317,cuenta,Gladys Yumbato Pezo,Gladys Yumbato Pezo,Iquitos,Selva,-3.7126,-73.1086,pescador,2200,159
+C0318,cuenta,Maribel Ríos Del Águila,Maribel Ríos Del Águila,Tarapoto,Selva,-6.4021,-76.2324,dependiente,8000,50
+C0319,cuenta,Segundo Del Águila Shapiama,Segundo Del Águila Shapiama,Trujillo,Costa,-8.2592,-79.1404,dependiente,8000,64
+C0320,cuenta,Karina Huamán Ahuanari,Karina Huamán Ahuanari,Iquitos,Selva,-3.8775,-73.1046,estudiante,5000,105
+C0321,cuenta,Segundo Shapiama Macedo,Segundo Shapiama Macedo,Lima,Costa,-11.9617,-77.1821,pescador,8000,122
+C0322,cuenta,Segundo Lozano Torres,Segundo Lozano Torres,Iquitos,Selva,-3.8767,-73.3472,independiente,2200,122
+C0323,cuenta,Yesenia Shapiama Huamán,Yesenia Shapiama Huamán,Iquitos,Selva,-3.8438,-73.4201,agricultor,1100,146
+C0324,cuenta,Félix Mozombite Vásquez,Félix Mozombite Vásquez,Lima,Costa,-12.0877,-77.1666,estudiante,2200,72
+C0325,cuenta,Nelly Gonzales Arévalo,Nelly Gonzales Arévalo,Iquitos,Selva,-3.7513,-73.0827,dependiente,2200,53
+C0326,cuenta,Alberto Tello Pinedo,Alberto Tello Pinedo,Lima,Costa,-12.1216,-76.9738,dependiente,2200,176
+C0327,cuenta,Ana Ahuanari Vásquez,Ana Ahuanari Vásquez,Yurimaguas,Selva,-6.0215,-75.9608,dependiente,3500,166
+C0328,cuenta,Milagros Chávez Lozano,Milagros Chávez Lozano,Iquitos,Selva,-3.7854,-73.1663,independiente,3500,6
+C0329,cuenta,Teófilo Pezo Mendoza,Teófilo Pezo Mendoza,Iquitos,Selva,-3.6853,-73.1769,pescador,2200,139
+C0330,cuenta,Elena Tafur Rengifo,Elena Tafur Rengifo,Arequipa,Sierra,-16.3115,-71.53,pescador,1100,115
+C0331,empresa,Inversiones Selva Real E.I.R.L.,Inversiones Selva Real E.I.R.L.,Iquitos,Selva,-3.712,-73.3524,madera,20000,100
+C0332,empresa,Importaciones Huallaga E.I.R.L.,Importaciones Huallaga E.I.R.L.,Lima,Costa,-12.0839,-77.0868,construccion,150000,153
+C0333,empresa,Constructora Tres Fronteras S.R.L.,Constructora Tres Fronteras S.R.L.,Iquitos,Selva,-3.745,-73.2533,comercio,150000,117
+C0334,empresa,Transportes Fluviales Putumayo S.A.C.,Transportes Fluviales Putumayo S.A.C.,Trujillo,Costa,-8.0388,-79.1409,transporte,150000,81
+C0335,empresa,Distribuidora Itaya S.A.C.,Distribuidora Itaya S.A.C.,Huancayo,Sierra,-12.0373,-75.0389,madera,45000,113
+C0336,empresa,Agroindustrias Amazonas E.I.R.L.,Agroindustrias Amazonas E.I.R.L.,Iquitos,Selva,-3.6607,-73.333,madera,45000,56
+C0337,empresa,Servicios Generales Huallaga S.R.L.,Servicios Generales Huallaga S.R.L.,Tarapoto,Selva,-6.5019,-76.2653,madera,45000,4
+C0338,empresa,Inversiones Oriente S.A.C.,Inversiones Oriente S.A.C.,Nauta,Selva,-4.4057,-73.6705,comercio,45000,55
+C0339,empresa,Agroindustrias Amazonas S.A.C.,Agroindustrias Amazonas S.A.C.,Lima,Costa,-12.0332,-76.8978,servicios,80000,148
+C0340,empresa,Constructora Selva Real S.A.C.,Constructora Selva Real S.A.C.,Lima,Costa,-12.1479,-77.1858,madera,80000,68
+C0341,empresa,Inversiones Selva Real S.A.C.,Inversiones Selva Real S.A.C.,Yurimaguas,Selva,-5.8436,-75.948,madera,150000,90
+C0342,empresa,Importaciones Loreto S.A.C.,Importaciones Loreto S.A.C.,Lima,Costa,-12.1586,-76.948,construccion,80000,162
+C0343,empresa,Inversiones Selva Real E.I.R.L.,Inversiones Selva Real E.I.R.L.,Iquitos,Selva,-3.5773,-73.2786,madera,45000,107
+C0344,empresa,Comercial Loreto S.A.C.,Comercial Loreto S.A.C.,Piura,Costa,-5.3554,-80.7814,madera,150000,48
+C0345,empresa,Distribuidora Huallaga E.I.R.L.,Distribuidora Huallaga E.I.R.L.,Iquitos,Selva,-3.7626,-73.2823,agroindustria,150000,19
+C0346,empresa,Servicios Generales Nanay E.I.R.L.,Servicios Generales Nanay E.I.R.L.,Santa Rosa,Selva,-4.1863,-69.961,construccion,20000,146
+C0347,empresa,Grifo Napo S.R.L.,Grifo Napo S.R.L.,Pucallpa,Selva,-8.4586,-74.3987,transporte,150000,145
+C0348,empresa,Grifo Huallaga S.A.C.,Grifo Huallaga S.A.C.,Yurimaguas,Selva,-5.752,-76.1345,transporte,80000,92
+C0349,empresa,Importaciones Nanay S.R.L.,Importaciones Nanay S.R.L.,Trujillo,Costa,-8.0673,-79.1928,construccion,20000,128
+C0350,empresa,Grifo Marañón E.I.R.L.,Grifo Marañón E.I.R.L.,Arequipa,Sierra,-16.5312,-71.4322,comercio,80000,56
+C0351,empresa,Transportes Fluviales Amazonas S.A.C.,Transportes Fluviales Amazonas S.A.C.,Tarapoto,Selva,-6.3467,-76.184,transporte,80000,43
+C0352,empresa,Servicios Generales Oriente E.I.R.L.,Servicios Generales Oriente E.I.R.L.,Lima,Costa,-12.0735,-77.0509,construccion,45000,90
+C0353,empresa,Importaciones Itaya S.R.L.,Importaciones Itaya S.R.L.,Lima,Costa,-12.012,-77.2063,madera,150000,23
+C0354,empresa,Grifo Loreto S.R.L.,Grifo Loreto S.R.L.,Trujillo,Costa,-8.1189,-79.193,madera,20000,102
+C0355,empresa,Maderera Amazonas S.R.L.,Maderera Amazonas S.R.L.,Lima,Costa,-11.9882,-76.876,transporte,20000,170
+C0356,empresa,Maderera Río Nanay S.A.C.,Maderera Río Nanay S.A.C.,Iquitos,Selva,-3.9029,-73.1336,madera,30000,126
+C0357,empresa,Transportes Fluviales Ucayali E.I.R.L.,Transportes Fluviales Ucayali E.I.R.L.,Pucallpa,Selva,-8.4669,-74.5781,transporte,25000,97
+C0358,empresa,Importaciones Selva Real S.A.C.,Importaciones Selva Real S.A.C.,Lima,Costa,-12.0385,-76.9876,importaciones,40000,153
+C0359,empresa,Agroindustrias Huallaga S.R.L.,Agroindustrias Huallaga S.R.L.,Tarapoto,Selva,-6.6468,-76.5392,agroindustria,20000,167
+C0360,empresa,Comercial Tres Fronteras S.A.C.,Comercial Tres Fronteras S.A.C.,Iquitos,Selva,-3.5784,-73.2991,comercio,35000,130
+C0361,cuenta,Wilmer Ahuanari Curitima,Wilmer Ahuanari Curitima,Iquitos,Selva,-3.7191,-73.3789,independiente,1500,12
+C0362,cuenta,Segundo Lozano Gonzales,Segundo Lozano Gonzales,Santa Rosa,Selva,-4.3227,-70.1181,agricultor,1100,122
+C0363,cuenta,María Shapiama Vásquez,María Shapiama Vásquez,Santa Rosa,Selva,-4.3939,-70.0062,comerciante,1100,152
+C0364,cuenta,Teófilo Curitima Ahuanari,Teófilo Curitima Ahuanari,Santa Rosa,Selva,-4.2105,-70.1347,pescador,1100,106
+C0365,cuenta,Jorge Torres Pezo,Jorge Torres Pezo,Caballococha,Selva,-3.8728,-70.4601,comerciante,1100,137
+C0366,cuenta,Víctor Huamán Gonzales,Víctor Huamán Gonzales,Caballococha,Selva,-4.0226,-70.5212,agricultor,1100,175
+C0367,cuenta,Julia Macedo Gonzales,Julia Macedo Gonzales,Caballococha,Selva,-3.7712,-70.5295,agricultor,1100,88
+C0368,cuenta,Félix Flores Ahuanari,Félix Flores Ahuanari,Santa Rosa,Selva,-4.1401,-69.8956,pescador,1100,104
+C0369,cuenta,Nelly Sánchez Saavedra,Nelly Sánchez Saavedra,Santa Rosa,Selva,-4.3333,-70.1177,comerciante,1100,146
+C0370,cuenta,Wilmer Yumbato Tuesta,Wilmer Yumbato Tuesta,Caballococha,Selva,-4.0188,-70.6724,pescador,1100,52
+C0371,cuenta,Félix Saavedra Ramírez,Félix Saavedra Ramírez,Santa Rosa,Selva,-4.1452,-69.9635,agricultor,1100,125
+C0372,cuenta,Milagros Torres Panaifo,Milagros Torres Panaifo,Caballococha,Selva,-3.7807,-70.3418,agricultor,1100,143
+C0373,cuenta,Teófilo Pinedo Curitima,Teófilo Pinedo Curitima,Santa Rosa,Selva,-4.0553,-70.1182,pescador,1100,6
+C0374,cuenta,María Ruiz Tuesta,María Ruiz Tuesta,Santa Rosa,Selva,-4.3398,-69.8605,pescador,1100,140
+C0375,cuenta,Julia Arévalo Sánchez,Julia Arévalo Sánchez,Santa Rosa,Selva,-4.2792,-70.1227,pescador,1100,37
+C0376,empresa,Inversiones Oro Madre S.A.C.,Inversiones Oro Madre S.A.C.,Puerto Maldonado,Selva,-12.5817,-69.2457,comercio de oro,15000,90
+C0377,cuenta,Elena Ríos Cárdenas,Elena Ríos Cárdenas,Lima,Costa,-12.1643,-77.2162,estudiante,3500,118
+C0378,cuenta,Milagros Panaifo Shapiama,Milagros Panaifo Shapiama,Lima,Costa,-12.0362,-77.2059,dependiente,2200,75
+C0379,cuenta,Nelly Arévalo Yumbato,Nelly Arévalo Yumbato,Lima,Costa,-12.0336,-77.2228,independiente,2200,67
+C0380,cuenta,Raúl Rengifo Ahuanari,Raúl Rengifo Ahuanari,Arequipa,Sierra,-16.3301,-71.4116,comerciante,1500,12
+C0381,cuenta,Nelly Tello Yumbato,Nelly Tello Yumbato,Puerto Maldonado,Selva,-12.4749,-69.2788,independiente,5000,167
+C0382,cuenta,Elena Ahuanari Lozano,Elena Ahuanari Lozano,Lima,Costa,-11.9567,-77.153,agricultor,1500,152
+C0383,cuenta,Carmen Tello Del Águila,Carmen Tello Del Águila,Lima,Costa,-11.9741,-77.091,pescador,8000,67
+C0384,cuenta,Óscar Cárdenas Panaifo,Óscar Cárdenas Panaifo,Iquitos,Selva,-3.8986,-73.0882,comerciante,3500,88
+C0385,cuenta,Óscar Pinedo Cárdenas,Óscar Pinedo Cárdenas,Puerto Maldonado,Selva,-12.7336,-69.2438,estudiante,3500,163
+C0386,cuenta,Nelly Shapiama Del Águila,Nelly Shapiama Del Águila,Lima,Costa,-12.0831,-76.9856,estudiante,1500,94
+C0387,cuenta,Teófilo Cárdenas Flores,Teófilo Cárdenas Flores,Puerto Maldonado,Selva,-12.706,-69.2276,agricultor,1500,78
+C0388,cuenta,Hugo Curitima Torres,Hugo Curitima Torres,Lima,Costa,-11.9629,-77.0863,estudiante,1500,67
+C0389,cuenta,Diana Cárdenas Tello,Diana Cárdenas Tello,Iquitos,Selva,-3.9205,-73.2922,pescador,1500,133
+C0390,cuenta,Julia Torres Quispe,Julia Torres Quispe,Lima,Costa,-12.0209,-76.8843,pescador,5000,70
+C0391,cuenta,Carlos Tello Ahuanari,Carlos Tello Ahuanari,Iquitos,Selva,-3.8674,-73.4053,estudiante,3500,136
+C0392,cuenta,Teófilo Tafur Ríos,Teófilo Tafur Ríos,Arequipa,Sierra,-16.5791,-71.6684,dependiente,3500,46
+C0393,cuenta,Carlos Huamán Mozombite,Carlos Huamán Mozombite,Puerto Maldonado,Selva,-12.5733,-69.2135,estudiante,1100,79
+C0394,cuenta,Víctor Shapiama Chávez,Víctor Shapiama Chávez,Arequipa,Sierra,-16.559,-71.5307,estudiante,1100,28
+C0395,cuenta,Félix Shapiama Huamán,Félix Shapiama Huamán,Lima,Costa,-12.0538,-76.9125,estudiante,1100,159
+C0396,cuenta,Julia Tello Lozano,Julia Tello Lozano,Lima,Costa,-12.2172,-76.9992,estudiante,1100,104
+C0397,cuenta,Gladys Yumbato Curitima,Gladys Yumbato Curitima,Pucallpa,Selva,-8.3914,-74.6049,estudiante,1100,91
+C0398,cuenta,Lucía Shapiama Ahuanari,Lucía Shapiama Ahuanari,Iquitos,Selva,-3.6436,-73.3434,estudiante,1100,79
+C0399,empresa,Constructora Yavarí S.R.L.,Constructora Yavarí S.R.L.,Pucallpa,Selva,-8.2313,-74.6137,transporte,20000,165
+C0400,cuenta,Lucía Mendoza Macedo,Lucía Mendoza Macedo,Pucallpa,Selva,-8.3611,-74.5131,madera,3500,11
+C0401,empresa,Comercial Nanay S.A.C.,Comercial Nanay S.A.C.,Pucallpa,Selva,-8.5469,-74.3801,madera,80000,103
+C0402,empresa,Constructora Pacaya E.I.R.L.,Constructora Pacaya E.I.R.L.,Pucallpa,Selva,-8.3266,-74.4555,madera,45000,172
+C0403,cuenta,Rosa Tafur Tafur,Rosa Tafur Tafur,Pucallpa,Selva,-8.4895,-74.5999,transporte,2200,93
+C0404,empresa,Distribuidora Ucayali S.A.C.,Distribuidora Ucayali S.A.C.,Pucallpa,Selva,-8.4191,-74.3951,independiente,150000,142

@@ -1,0 +1,62 @@
+{
+  "normal": {
+    "descripcion": "Operación habitual, ríos en nivel medio.",
+    "factor_fluvial": 1.0,
+    "factor_aereo": 1.0,
+    "factor_terrestre": 1.0,
+    "factor_demanda": 1.0,
+    "cerrar_aristas": [],
+    "cerrar_nodos": []
+  },
+  "vaciante": {
+    "descripcion": "Temporada de aguas bajas: los ríos amazónicos reducen la carga navegable (capacidad fluvial al 45 %).",
+    "factor_fluvial": 0.45,
+    "factor_aereo": 1.0,
+    "factor_terrestre": 1.0,
+    "factor_demanda": 1.0,
+    "cerrar_aristas": [],
+    "cerrar_nodos": []
+  },
+  "diciembre": {
+    "descripcion": "Pago de gratificaciones y fiestas: la demanda de efectivo sube 35 %.",
+    "factor_fluvial": 1.0,
+    "factor_aereo": 1.0,
+    "factor_terrestre": 1.0,
+    "factor_demanda": 1.35,
+    "cerrar_aristas": [],
+    "cerrar_nodos": []
+  },
+  "vuelo_cancelado": {
+    "descripcion": "Se cancela el vuelo de valores Lima-Iquitos (mal tiempo).",
+    "factor_fluvial": 1.0,
+    "factor_aereo": 1.0,
+    "factor_terrestre": 1.0,
+    "factor_demanda": 1.0,
+    "cerrar_aristas": [
+      "L024"
+    ],
+    "cerrar_nodos": []
+  },
+  "bloqueo_carretera_central": {
+    "descripcion": "Huaico bloquea la Carretera Central Lima-Huancayo.",
+    "factor_fluvial": 1.0,
+    "factor_aereo": 1.0,
+    "factor_terrestre": 1.0,
+    "factor_demanda": 1.0,
+    "cerrar_aristas": [
+      "L012"
+    ],
+    "cerrar_nodos": []
+  },
+  "crisis_amazonica": {
+    "descripcion": "Vaciante + demanda de diciembre + agencia Nauta en mantenimiento.",
+    "factor_fluvial": 0.45,
+    "factor_aereo": 1.0,
+    "factor_terrestre": 1.0,
+    "factor_demanda": 1.35,
+    "cerrar_aristas": [],
+    "cerrar_nodos": [
+      "AG_NAU"
+    ]
+  }
+}

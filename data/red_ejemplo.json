@@ -1,0 +1,118 @@
+{
+  "nombre": "Red de ejemplo Iquitos",
+  "dirigido": true,
+  "ponderado": true,
+  "multiple": false,
+  "nodos": [
+    {
+      "id": "CLI_01",
+      "tipo": "cliente",
+      "nombre": "Cliente Ana Pinedo",
+      "lat": -3.699,
+      "lon": -73.303
+    },
+    {
+      "id": "CTA_01",
+      "tipo": "cuenta",
+      "nombre": "Cuenta de ahorros 001",
+      "lat": -3.719,
+      "lon": -73.233
+    },
+    {
+      "id": "CTA_02",
+      "tipo": "cuenta",
+      "nombre": "Cuenta corriente 002",
+      "lat": -3.769,
+      "lon": -73.193
+    },
+    {
+      "id": "AG_IQT",
+      "tipo": "agencia",
+      "nombre": "Agencia BAA Iquitos",
+      "lat": -3.749,
+      "lon": -73.253
+    },
+    {
+      "id": "ATM_01",
+      "tipo": "atm",
+      "nombre": "Cajero Plaza de Armas",
+      "lat": -3.689,
+      "lon": -73.173
+    },
+    {
+      "id": "BILL_A",
+      "tipo": "billetera",
+      "nombre": "Billetera digital A",
+      "lat": -3.799,
+      "lon": -73.333
+    },
+    {
+      "id": "SRV_01",
+      "tipo": "servidor",
+      "nombre": "Servidor de autorización",
+      "lat": -3.829,
+      "lon": -73.233
+    },
+    {
+      "id": "BOV_IQT",
+      "tipo": "boveda_regional",
+      "nombre": "Bóveda regional Iquitos",
+      "lat": -3.659,
+      "lon": -73.273
+    }
+  ],
+  "aristas": [
+    {
+      "origen": "CLI_01",
+      "destino": "CTA_01",
+      "tipo_operacion": "titularidad",
+      "comision_fija": 0
+    },
+    {
+      "origen": "CTA_01",
+      "destino": "CTA_02",
+      "comision_fija": 0,
+      "comision_pct": 0.0,
+      "tiempo_min": 1,
+      "limite": 50000
+    },
+    {
+      "origen": "CTA_01",
+      "destino": "BILL_A",
+      "comision_fija": 0,
+      "tiempo_min": 1,
+      "limite": 2000,
+      "riesgo": 0.002
+    },
+    {
+      "origen": "CTA_02",
+      "destino": "ATM_01",
+      "comision_fija": 0,
+      "tiempo_min": 2,
+      "limite": 3000
+    },
+    {
+      "origen": "BILL_A",
+      "destino": "SRV_01",
+      "tiempo_min": 0.2,
+      "riesgo": 0.001
+    },
+    {
+      "origen": "SRV_01",
+      "destino": "AG_IQT",
+      "tiempo_min": 0.1
+    },
+    {
+      "origen": "BOV_IQT",
+      "destino": "AG_IQT",
+      "capacidad": 16000,
+      "costo": 0.2
+    },
+    {
+      "origen": "BOV_IQT",
+      "destino": "ATM_01",
+      "capacidad": 400,
+      "costo": 0.6
+    }
+  ]
+}

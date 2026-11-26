@@ -1,0 +1,7 @@
+origen,destino,comision_fija,riesgo
+CuentaA,CuentaB,4.5,
+CuentaA,CuentaB,4.5,
+CuentaB,CuentaB,1.0,
+CuentaC,CuentaD,-2.0,
+CuentaD,CuentaE,,1.7
+CuentaE,,3.0,

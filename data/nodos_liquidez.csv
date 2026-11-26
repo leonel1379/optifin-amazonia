@@ -1,0 +1,23 @@
+id,tipo,nombre,ciudad,region,lat,lon,oferta,demanda
+BOV_LIM,boveda_central,Bóveda central Lima,Lima,Costa,-11.746,-76.743,140000,0
+BOV_TRU,boveda_regional,Bóveda regional Trujillo,Trujillo,Costa,-7.862,-78.779,6000,0
+BOV_AQP,boveda_regional,Bóveda regional Arequipa,Arequipa,Sierra,-16.159,-71.287,5000,0
+BOV_HYO,boveda_regional,Bóveda regional Huancayo,Huancayo,Sierra,-11.815,-74.954,2000,0
+BOV_PUC,boveda_regional,Bóveda de custodia Pucallpa,Pucallpa,Selva,-8.129,-74.303,0,0
+BOV_TPP,boveda_regional,Bóveda de custodia Tarapoto,Tarapoto,Selva,-6.237,-76.11,0,0
+BOV_IQT,boveda_regional,Bóveda regional Iquitos,Iquitos,Selva,-3.499,-73.003,2500,0
+AG_LIM,agencia,Agencia BAA Lima,Lima,Costa,-12.046,-77.043,0,45000
+AG_TRU,agencia,Agencia BAA Trujillo,Trujillo,Costa,-8.112,-79.029,0,9000
+AG_CIX,agencia,Agencia BAA Chiclayo,Chiclayo,Costa,-6.771,-79.841,0,8000
+AG_PIU,agencia,Agencia BAA Piura,Piura,Costa,-5.194,-80.632,0,7000
+AG_AQP,agencia,Agencia BAA Arequipa,Arequipa,Sierra,-16.409,-71.537,0,10000
+AG_HYO,agencia,Agencia BAA Huancayo,Huancayo,Sierra,-12.065,-75.204,0,6000
+AG_PUC,agencia,Agencia BAA Pucallpa,Pucallpa,Selva,-8.379,-74.553,0,7500
+AG_TPP,agencia,Agencia BAA Tarapoto,Tarapoto,Selva,-6.487,-76.36,0,4500
+AG_YUR,agencia,Agencia BAA Yurimaguas,Yurimaguas,Selva,-5.902,-76.123,0,3000
+AG_IQT,agencia,Agencia BAA Iquitos,Iquitos,Selva,-3.749,-73.253,0,14000
+AG_NAU,agencia,Agencia BAA Nauta,Nauta,Selva,-4.507,-73.583,0,1600
+AG_REQ,agencia,Agencia BAA Requena,Requena,Selva,-5.063,-73.856,0,1300
+AG_CAB,agencia,Agencia BAA Caballococha,Caballococha,Selva,-3.906,-70.517,0,1900
+AG_SRO,agencia,Agencia BAA Santa Rosa,Santa Rosa,Selva,-4.22,-69.955,0,700
+AG_PEM,agencia,Agencia BAA Puerto Maldonado,Puerto Maldonado,Selva,-12.593,-69.189,0,4000

@@ -1,0 +1,6 @@
+origen,destino,comision
+CuentaA,CuentaB,4.5
+CuentaA,CuentaC,2.0
+CuentaB,CuentaD,5.1
+CuentaC,CuentaD,1.0
+CuentaD,CuentaE,3.0

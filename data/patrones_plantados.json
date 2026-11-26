@@ -1,0 +1,94 @@
+{
+  "descripcion": "Patrones sospechosos insertados deliberadamente (verdad de referencia para validar el Módulo 2). Los datos son ficticios.",
+  "umbral_reporte": 10000,
+  "patrones": [
+    {
+      "id": "P1",
+      "tipo": "ciclo",
+      "descripcion": "Circulación de fondos entre 5 empresas fachada (round-tripping), dos veces.",
+      "cuentas": [
+        "C0356",
+        "C0357",
+        "C0358",
+        "C0359",
+        "C0360"
+      ]
+    },
+    {
+      "id": "P2",
+      "tipo": "fragmentacion",
+      "descripcion": "14 cuentas de la triple frontera depositan montos justo bajo el umbral en una cuenta concentradora que luego envía S/ 120 000 a Lima.",
+      "cuentas": [
+        "C0361",
+        "C0362",
+        "C0363",
+        "C0364",
+        "C0365",
+        "C0366",
+        "C0367",
+        "C0368",
+        "C0369",
+        "C0370",
+        "C0371",
+        "C0372",
+        "C0373",
+        "C0374",
+        "C0375"
+      ],
+      "concentradora": "C0361",
+      "cuenta_reportada": "C0361"
+    },
+    {
+      "id": "P4",
+      "tipo": "dispersion",
+      "descripcion": "Cuenta vinculada a comercio de oro dispersa fondos a 16 cuentas en 4 días.",
+      "cuentas": [
+        "C0376",
+        "C0377",
+        "C0378",
+        "C0379",
+        "C0380",
+        "C0381",
+        "C0382",
+        "C0383",
+        "C0384",
+        "C0385",
+        "C0386",
+        "C0387",
+        "C0388",
+        "C0389",
+        "C0390",
+        "C0391",
+        "C0392"
+      ],
+      "emisora": "C0376"
+    },
+    {
+      "id": "P3",
+      "tipo": "cadena_puente",
+      "descripcion": "Cadena de 6 cuentas puente (mulas): cada una reenvía ~98 % en pocas horas.",
+      "cuentas": [
+        "C0393",
+        "C0394",
+        "C0395",
+        "C0396",
+        "C0397",
+        "C0398"
+      ],
+      "origen": "C0376"
+    },
+    {
+      "id": "P5",
+      "tipo": "grupo_cerrado",
+      "descripcion": "6 cuentas de Pucallpa con transferencias cruzadas intensas (grupo fuertemente conexo).",
+      "cuentas": [
+        "C0399",
+        "C0400",
+        "C0401",
+        "C0402",
+        "C0403",
+        "C0404"
+      ]
+    }
+  ]
+}
