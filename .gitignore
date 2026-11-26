@@ -1,0 +1,44 @@
+# entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# reportes generados al ejecutar (se conservan solo las carpetas)
+reports/*
+!reports/.gitkeep
+
+# editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# LaTeX (compilación del informe)
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.bbl
+docs/*.blg
+docs/*.bcf
+docs/*.run.xml
+docs/*.synctex.gz
+docs/informe/*.aux
+docs/informe/*.log
+docs/informe/*.out
+docs/informe/*.toc
+docs/informe/*.lot
+docs/informe/*.lof
+docs/informe/*.synctex.gz
+docs/informe/informe.pdf
+
+# scripts locales para publicar en GitHub (no forman parte del repositorio)
+SUBIR_A_GITHUB.bat
+subir_a_github.sh
